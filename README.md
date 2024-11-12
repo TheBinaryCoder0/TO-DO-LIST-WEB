@@ -3,4 +3,4 @@
 CREATED A TO-DO-LIST USING HTML,CSS AND JAVASCRIPT
 
 ## YOU CAN VISIT THE PROJECT HERE: 
-https://thebinarycoder0.github.io/TO-DO-LIST-WEB/
+[LINK](https://thebinarycoder0.github.io/TO-DO-LIST-WEB/)
